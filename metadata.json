@@ -1,0 +1,7 @@
+{
+  "name": "CareerMentorship Pro",
+  "description": "An advanced career guidance platform providing AI-powered personality quizzes, comprehensive career roadmaps for 35+ sectors, and personalized mentorship dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
